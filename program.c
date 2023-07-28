@@ -1,7 +1,8 @@
 #include<stdio.h>
+#include <stdint.h>
 int main ()
 {
-  4int a =19;
+  uint8_t a =286;
   a++;
   printf("value of a =%d",a);
   
