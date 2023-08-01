@@ -2,7 +2,7 @@
 #include <stdint.h>
 int main ()
 {
-  uint8_t a =286;
+  uint8_t a =28;
   a++;
   printf("value of a =%d",a);
   
