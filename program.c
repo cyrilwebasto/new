@@ -1,7 +1,10 @@
 #include<stdio.h>
+#include <stdint.h>
 int main ()
 {
-  int a =19;
+
+  //test1
+  uint16_t a =65540; 
   a++;
   printf("value of a =%d",a);
   
